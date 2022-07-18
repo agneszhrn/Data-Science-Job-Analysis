@@ -17,18 +17,18 @@ Link : https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries?resour
 Observation:
 
 • The dataset consists of 12 columns and 607 rows.
-- Unnamed: 0
-- work_year
-- experience_level
-- employment_type
-- job_title
-- salary
-- salary_currency
-- salaryinusd
-- employee_residence
-- remote_ratio
-- company_location
-- company_size
+  - Unnamed: 0
+  - work_year
+  - experience_level
+  - employment_type
+  - job_title
+  - salary
+  - salary_currency
+  - salaryinusd
+  - employee_residence
+  - remote_ratio
+  - company_location
+  - company_size
 
 • Column `Unnamed: 0` needs to be removed, as it is unecessary columns.
 
