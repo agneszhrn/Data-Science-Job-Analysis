@@ -36,5 +36,6 @@ The dataset consists of 12 columns and 607 rows.
 
 
 - Checking duplicated data
+
 ![image](https://user-images.githubusercontent.com/67780196/179522067-0b1d6029-3cf2-4ebf-805d-2f56b54b280b.png)
 There are 42 duplicate rows; will be dropped using the `df.drop()` function.
