@@ -50,8 +50,7 @@ Obervations:
 - There are some outliers in the salary and salary_in_usd columns.
 
 ### Analysis 1: What is job with the highest salary in Data Science?
-![image](https://user-images.githubusercontent.com/67780196/179528318-1b4627e5-4184-4298-9188-7d1363a72b36.png)
-![image](https://user-images.githubusercontent.com/67780196/179544269-2116113d-2c9e-4783-adbc-e6f7ddff8bba.png)
+![image](https://user-images.githubusercontent.com/67780196/179547399-d475de8a-322e-4a58-bf0c-7930adcc9089.png)
 
 Observations :
 - The chart shows that the highest salary by **Data Analytics Lead** is > 400,000 USD and the lowest by **3D Computer Vision Researcher** is < 3,000 USD.
