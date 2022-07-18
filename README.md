@@ -3,15 +3,18 @@ According to the 2020 LinkedIn U.S. Emerging Jobs Report,  data science has expe
 
 Notwithstanding the profitable honeymoon this field is experiencing, it is important to note that the data science salaries can range considerably across professionals. Employers take into account several factors when deciding how much to pay, including experience, skills, job title, or company size. 
 
-## Acquisition of data
-The Data Science salary data (Salary_Data.csv) that we will use for the analysis is obtained from Kaggle.
-Link : https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries?resource=download
-
 ## Linkdin Profile
 For any queries regarding about this project contact me.
 Link : https://www.linkedin.com/in/agneszahrani/
 
-## Columns of dataset
+## Acquisition of data
+The Data Science salary data (Salary_Data.csv) that we will use for the analysis is obtained from Kaggle.
+Link : https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries?resource=download
+
+## Dataset
+![image](https://user-images.githubusercontent.com/67780196/179521118-9718c228-960f-45d8-9f26-edf1dd911c84.png)
+The dataset consists of 12 columns and 607 rows.
+- Unnamed: 0
 - work_year
 - experience_level
 - employment_type
@@ -23,3 +26,5 @@ Link : https://www.linkedin.com/in/agneszahrani/
 - remote_ratio
 - company_location
 - company_size
+
+## Data Cleansing
