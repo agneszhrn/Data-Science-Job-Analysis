@@ -3,7 +3,7 @@ According to the 2020 LinkedIn U.S. Emerging Jobs Report,  data science has expe
 
 Notwithstanding the profitable honeymoon this field is experiencing, it is important to note that the data science salaries can range considerably across professionals. Employers take into account several factors when deciding how much to pay, including experience, skills, job title, or company size. 
 
-## Linkdin Profile
+## LinkedIn Profile
 For any queries regarding about this project contact me.
 Link : 
 
