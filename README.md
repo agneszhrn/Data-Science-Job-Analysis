@@ -73,3 +73,12 @@ Observations:
 
 ### Analysis 4: Does salary of employees (salary_in_usd) depends on the exprience level?
 ![image](https://user-images.githubusercontent.com/67780196/179542584-1085b997-4395-4474-9fb6-9cae1019a45b.png)
+
+Observation :
+- Experience level highly effects the amount of salary.
+
+### Analysis 5: How is the distribution of Data Science worker locations?
+![image](https://user-images.githubusercontent.com/67780196/179545319-184ecccf-63b9-4650-9633-2fecbe4ae672.png)
+
+Observation:
+- Workers mostly are from american (US) companies.
