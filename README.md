@@ -31,8 +31,11 @@ Observation:
 - company_size
 
 • Column `Unnamed: 0` needs to be removed, as it is unecessary columns.
-• The names of each column are lowercase
+
+• The names of each column are lowercase.
+
 • The values of the `experience_level`, `employment_type`, `remote_ratio`, and `company_size` columns need to be redefined.
+
 • `work_year`, `salary`, `salary_in_usd`, and `remote_ratio` columns are numeric.
 
 ## Data Cleansing
