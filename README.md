@@ -5,7 +5,6 @@ Notwithstanding the profitable honeymoon this field is experiencing, it is impor
 
 ## LinkedIn Profile
 For any queries regarding about this project contact me.
-
 Link : 
 
 ## Acquisition of data
