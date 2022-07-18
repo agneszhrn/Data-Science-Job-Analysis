@@ -28,18 +28,12 @@ The dataset consists of 12 columns and 607 rows.
 - company_size
 
 ## Data Cleansing
-• Removed unwanted columns: 'Unnamed: 0'
+• Removed unwanted columns: 'Unnamed: 0'.
+
 • Drop 42 duplicate rows found.
 
-![image](https://user-images.githubusercontent.com/67780196/179521649-c01d4bed-bbda-4fad-84c0-9b4a8b9a7808.png)
-
-- Checking and handling missing values
-
-![image](https://user-images.githubusercontent.com/67780196/179521917-8cb57e51-6e5d-4fb3-99a5-a3447f0c27a3.png)
-
-
-- Checking duplicated data
-
-![image](https://user-images.githubusercontent.com/67780196/179522067-0b1d6029-3cf2-4ebf-805d-2f56b54b280b.png)
-
-There are 42 duplicate rows; will be dropped.
+• Renaming the column value
+- experience_level : EN = Entry-level, MI = Mid-level, SE = Senior-level, EX = Expert-level
+- employment_type : PT = Part-time, CT = Contract, FT = Full-time, FL = Freelance
+- remote_ratio.replace : 0 = Onsite, 50 = Hybrid, 100 = Remote
+- company_size.replace : S = Small, M = Medium, L = Large
