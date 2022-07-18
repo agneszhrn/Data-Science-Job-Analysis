@@ -5,10 +5,12 @@ Notwithstanding the profitable honeymoon this field is experiencing, it is impor
 
 ## LinkedIn Profile
 For any queries regarding about this project contact me.
+
 Link : 
 
 ## Acquisition of data
 The Data Science salary data (Salary_Data.csv) that we will use for the analysis is obtained from Kaggle.
+
 Link : https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries?resource=download
 
 ## Dataset
