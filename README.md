@@ -52,8 +52,9 @@ Obervations:
 ### Analysis 1: What is job with the highest salary in Data Science?
 ![image](https://user-images.githubusercontent.com/67780196/179528318-1b4627e5-4184-4298-9188-7d1363a72b36.png)
 
-Observations:
-- 
+Observations :
+- The chart shows that the highest salary by **Data Analytics Lead** is > 400,000 USD and the lowest by **3D Computer Vision Researcher** is < 3,000 USD.
+- The average salary of workers in the Data Science field is 100,000 USD.
 
 ### Analysis 2: What are the top 10 data science jobs in 2022?
 ![image](https://user-images.githubusercontent.com/67780196/179528586-4ab569cb-2bba-4e05-a55f-bc4614e89d85.png)
