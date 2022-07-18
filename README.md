@@ -5,3 +5,21 @@ Notwithstanding the profitable honeymoon this field is experiencing, it is impor
 
 ## Acquisition of data
 The Data Science salary data (Salary_Data.csv) that we will use for the analysis is obtained from Kaggle.
+Link : https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries?resource=download
+
+## Linkdin Profile
+For any queries regarding about this project contact me.
+Link : https://www.linkedin.com/in/agneszahrani/
+
+## Columns of dataset
+- work_year
+- experience_level
+- employment_type
+- job_title
+- salary
+- salary_currency
+- salaryinusd
+- employee_residence
+- remote_ratio
+- company_location
+- company_size
