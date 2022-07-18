@@ -53,6 +53,8 @@ Obervations:
 
 ![image](https://user-images.githubusercontent.com/67780196/179548325-a18d5bc1-5fda-474a-b95b-426470e9b9ab.png)
 
+Observation :
+- `experience_level` and `salary_in_usd` have a high correlation.
 
 ### Analysis 1: What is job with the highest salary in Data Science?
 ![image](https://user-images.githubusercontent.com/67780196/179547399-d475de8a-322e-4a58-bf0c-7930adcc9089.png)
