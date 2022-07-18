@@ -41,9 +41,13 @@ The dataset consists of 12 columns and 607 rows.
 - company_size.replace : S = Small, M = Medium, L = Large
 
 ## Exploratory Data Analysis (EDA)
-• Creating boxplot to see outliers in data.
+### Creating boxplot to see outliers in data.
 
 ![image](https://user-images.githubusercontent.com/67780196/179526960-c8e5132f-cfb6-4d97-9694-914ecba4509b.png)
 
+Obervations:
 - There is no outlier in work_year column.
 - There are some outliers in the salary and salary_in_usd columns.
+
+### Analysis 1: What is job with the highest salary in Data Science?
+![image](https://user-images.githubusercontent.com/67780196/179528318-1b4627e5-4184-4298-9188-7d1363a72b36.png)
