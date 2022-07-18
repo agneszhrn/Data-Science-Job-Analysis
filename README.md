@@ -28,7 +28,8 @@ The dataset consists of 12 columns and 607 rows.
 - company_size
 
 ## Data Cleansing
-- Removed unwanted columns: 'Unnamed: 0'
+• Removed unwanted columns: 'Unnamed: 0'
+
 ![image](https://user-images.githubusercontent.com/67780196/179521649-c01d4bed-bbda-4fad-84c0-9b4a8b9a7808.png)
 
 - Checking and handling missing values
