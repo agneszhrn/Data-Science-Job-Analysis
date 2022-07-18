@@ -30,6 +30,8 @@ The dataset consists of 12 columns and 607 rows.
 ## Data Cleansing
 • Removed unwanted columns: 'Unnamed: 0'.
 
+• Dataframe has no missing values.
+
 • Drop 42 duplicate rows found.
 
 • Renaming the column value
@@ -37,3 +39,11 @@ The dataset consists of 12 columns and 607 rows.
 - employment_type : PT = Part-time, CT = Contract, FT = Full-time, FL = Freelance
 - remote_ratio.replace : 0 = Onsite, 50 = Hybrid, 100 = Remote
 - company_size.replace : S = Small, M = Medium, L = Large
+
+## Exploratory Data Analysis (EDA)
+• Creating boxplot to see outliers in data.
+
+![image](https://user-images.githubusercontent.com/67780196/179526960-c8e5132f-cfb6-4d97-9694-914ecba4509b.png)
+
+- There is no outlier in work_year column.
+- There are some outliers in the salary and salary_in_usd columns.
