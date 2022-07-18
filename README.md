@@ -51,3 +51,19 @@ Obervations:
 
 ### Analysis 1: What is job with the highest salary in Data Science?
 ![image](https://user-images.githubusercontent.com/67780196/179528318-1b4627e5-4184-4298-9188-7d1363a72b36.png)
+
+Observations:
+- 
+
+### Analysis 2: What are the top 10 data science jobs in 2022?
+![image](https://user-images.githubusercontent.com/67780196/179528586-4ab569cb-2bba-4e05-a55f-bc4614e89d85.png)
+
+Observation:
+- In 2022, the top 10 popular data science jobs are shown on the chart and the most popular is Data Engineer.
+
+### Analysis 3: How does the remote-ratio vary from year 2020 -2022?
+![image](https://user-images.githubusercontent.com/67780196/179528792-8b928ab2-279b-41a0-a764-61654bd6fa93.png)
+
+Observations:
+- From 2020 to 2022 there will be an increase in the rate of remote work by Data Science workers.
+- The chart shows the existence of a new culture that is most favored by Data Science workers, namely remote / work from home.
