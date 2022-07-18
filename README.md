@@ -5,7 +5,7 @@ Notwithstanding the profitable honeymoon this field is experiencing, it is impor
 
 ## Linkdin Profile
 For any queries regarding about this project contact me.
-Link : https://www.linkedin.com/in/agneszahrani/
+Link : 
 
 ## Acquisition of data
 The Data Science salary data (Salary_Data.csv) that we will use for the analysis is obtained from Kaggle.
