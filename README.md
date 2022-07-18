@@ -29,6 +29,7 @@ The dataset consists of 12 columns and 607 rows.
 
 ## Data Cleansing
 • Removed unwanted columns: 'Unnamed: 0'
+• Drop 42 duplicate rows found.
 
 ![image](https://user-images.githubusercontent.com/67780196/179521649-c01d4bed-bbda-4fad-84c0-9b4a8b9a7808.png)
 
