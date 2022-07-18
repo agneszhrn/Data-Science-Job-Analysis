@@ -15,6 +15,7 @@ Link : https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries?resour
 ![image](https://user-images.githubusercontent.com/67780196/179521118-9718c228-960f-45d8-9f26-edf1dd911c84.png)
 
 Observation:
+
 • The dataset consists of 12 columns and 607 rows.
 - Unnamed: 0
 - work_year
@@ -28,6 +29,7 @@ Observation:
 - remote_ratio
 - company_location
 - company_size
+
 • Column `Unnamed: 0` needs to be removed, as it is unecessary columns.
 • The names of each column are lowercase
 • The values of the `experience_level`, `employment_type`, `remote_ratio`, and `company_size` columns need to be redefined.
