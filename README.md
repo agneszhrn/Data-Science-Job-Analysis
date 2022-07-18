@@ -46,10 +46,12 @@ Observation:
 • Drop 42 duplicate rows found.
 
 • Renaming the column value
-- experience_level : EN = Entry-level, MI = Mid-level, SE = Senior-level, EX = Expert-level
-- employment_type : PT = Part-time, CT = Contract, FT = Full-time, FL = Freelance
-- remote_ratio.replace : 0 = Onsite, 50 = Hybrid, 100 = Remote
-- company_size.replace : S = Small, M = Medium, L = Large
+  - experience_level : EN = Entry-level, MI = Mid-level, SE = Senior-level, EX = Expert-level
+  - employment_type : PT = Part-time, CT = Contract, FT = Full-time, FL = Freelance
+  - remote_ratio.replace : 0 = Onsite, 50 = Hybrid, 100 = Remote
+  - company_size.replace : S = Small, M = Medium, L = Large
+
+• After renaming the column value, the dtype of the remote_ratio column changes to object.
 
 ## Exploratory Data Analysis (EDA)
 ### Creating boxplot to see outliers in data.
