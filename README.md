@@ -49,6 +49,11 @@ Obervations:
 - There is no outlier in work_year column.
 - There are some outliers in the salary and salary_in_usd columns.
 
+### Feature Correlation
+
+![image](https://user-images.githubusercontent.com/67780196/179548325-a18d5bc1-5fda-474a-b95b-426470e9b9ab.png)
+
+
 ### Analysis 1: What is job with the highest salary in Data Science?
 ![image](https://user-images.githubusercontent.com/67780196/179547399-d475de8a-322e-4a58-bf0c-7930adcc9089.png)
 
