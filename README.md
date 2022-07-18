@@ -61,6 +61,7 @@ Observations :
 
 Observation:
 - In 2022, the top 10 popular data science jobs are shown on the chart and the most popular is Data Engineer.
+- Data Scientist, Data Engineer, Data Analyst are the top 3 most popular jobs based on the data.
 
 ### Analysis 3: How does the remote-ratio vary from year 2020 -2022?
 ![image](https://user-images.githubusercontent.com/67780196/179528792-8b928ab2-279b-41a0-a764-61654bd6fa93.png)
@@ -68,3 +69,6 @@ Observation:
 Observations:
 - From 2020 to 2022 there will be an increase in the rate of remote work by Data Science workers.
 - The chart shows the existence of a new culture that is most favored by Data Science workers, namely remote / work from home.
+
+### Analysis 4: Does salary of employees (salary_in_usd) depends on the exprience level?
+![image](https://user-images.githubusercontent.com/67780196/179542584-1085b997-4395-4474-9fb6-9cae1019a45b.png)
